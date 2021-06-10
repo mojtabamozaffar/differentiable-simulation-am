@@ -1,4 +1,11 @@
 data/target.npy
+data/birth_list_element.npy
+data/birth_list_node.npy
+data/elements.npy
+data/element_surface.npy
+data/element_surface_birth.npy
+data/target_q.npy
+data/nodes.npy
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
