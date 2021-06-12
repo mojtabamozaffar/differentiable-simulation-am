@@ -10,8 +10,9 @@ This repo contains a differentiable physics-based simulation tool. It focuses on
 * [x] Explore different automatic differentiation libraries
 * [x] Automatic mesh and toolpath loader
 * [X] Visualization tools using pyvista
-* [ ] Upgrade for unstructured shape functions
-* [ ] Validate results with benchmarks
+* [x] Upgrade for unstructured shape functions
+* [x] Add temperature-dependent material properties
+* [x] Validate results with benchmarks
 
 ## Demo
 
